@@ -1662,5 +1662,4 @@ def loadData():
     populateMiscontrols()
     return True
 
-# loadData()
-populatePasses()
+loadData()
